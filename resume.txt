@@ -1,0 +1,89 @@
+Resume.markdown
+
+Why Markdown
+------------
+ 1. I like working in the terminal.
+ 2. It's efficient.  I'd much rather be writing code than formatting resumes.
+ 3. http://daringfireball.net/projects/markdown/
+
+Contact Information
+===============================================================================
+ * J. Taylor Fairbank
+ * jtfairbank@gmail.com
+ * 417-496-2928
+
+
+Education
+===============================================================================
+ * University of Illinois, Urbana, IL   | B.E. in Computer Science    | 2014
+ * Central High School, Springfield, MO | High school and IB Diplomas | 2010
+
+
+Projects
+===============================================================================
+
+Election Analytics (Summer - Fall 2012)
+---------------------------------------
+http://electionanalytics.cs.illinois.edu/
+
+I am taking an independent study course with Professor Sheldon Jacobson that
+tracks and analyzes polling data to forcast the upcoming November 2012
+elections.  Specifically, my work includes the creation of the Senate 2012
+portion of the site and a web-spider to automate the collecting and processing
+of polling data.  I am also working on transitioning our version control from
+SVN to GIT, and setting up workflow processes that take advantage of branching
+and other modern version control features.
+
+
+Work Experience
+===============================================================================
+
+Jr. Developer @ Jack Henry (Fall 2011)
+--------------------------------------
+Working with the continuing development team for Jack Henry’s 4Sight product put
+me in charge of supporting the team. I researched bugs and solutions to coding
+problems, created a number of in-house utilities, setup virtual environments in
+VMWare's Lab Manager, and improved on a number of work-flow processes.
+
+Jr. Developer @ Allscripts (Summer 2011)
+----------------------------------------
+At Allscripts, I worked on a large data importation project that required me to
+automate the collection of sensitive patient-related data from their clients.
+I also wrote user stories for and mocked up a new interface design on one of their
+products.
+
+
+Campus Involvement
+===============================================================================
+
+Webmonkeys, an ACM Special Intrest Group (Fall 2012 - Spring 2013)
+------------------------------------------------------------------
+As the co-chair of ACM's Webmonkeys, I am responsible for coordinating meetings
+with our 300+ members, organize projects, and setup tutorials.  I am excited
+about my role as a mentor and look forward to helping others suceede in their
+web development endeavers.  My personal Webmonkey's project is the creation of
+a web app client for the UDJ music player.
+
+
+Skills
+===============================================================================
+
+As a CS major at UIUC, I am language agnostic.  My education focuses on skills
+that are applicable to a wide variety of development stacks and environments,
+and I am capbable of adjusting to new languages, systems, process, etc.
+
+Web Dev
+-------
+HTML5, CSS3, SCSS, JS, JQUERY, BOOTSTRAP, PHP, DJANGO, SQL
+
+Applicaiton Dev
+---------------
+C, C++, Java, Python
+
+Version Control
+---------------
+SVN, GIT (preferred)
+
+Other Skills
+------------
+Quality Assurance Testing, User Stories, Application Mockups
