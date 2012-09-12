@@ -8,7 +8,7 @@ Basic Information
 J. Taylor Fairbank  |  jtfairbank@gmail.com  |  417-496-2928
 University of Illinois, Urbana, IL  |  B.E. in Computer Science  |  2014
 
-Projects
+Projects and Work Experience
 ===============================================================================
 Election Analytics (Summer - Fall 2012)
 ---------------------------------------
@@ -21,8 +21,6 @@ SVN to GIT, and setting up workflow processes that take advantage of branching
 and other modern version control features.
  * http://electionanalytics.cs.illinois.edu/
 
-Work Experience
-===============================================================================
 Jr. Developer @ Jack Henry (Fall 2011)
 --------------------------------------
 Working with the continuing development team for Jack Henry’s 4Sight product put
