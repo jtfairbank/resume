@@ -1,12 +1,21 @@
+J. Taylor Fairbank  |  jtfairbank@gmail.com  |  417-496-2928
+
 Resume.markdown
 ---------------
 I like working in the terminal.  Markdown's efficient.  I'd much rather be
 writing code than formatting resumes. daringfireball.net/projects/markdown/
 
-Basic Information
+Education and Campus Involvement
 ===============================================================================
-J. Taylor Fairbank  |  jtfairbank@gmail.com  |  417-496-2928
 University of Illinois, Urbana, IL  |  B.E. in Computer Science  |  2014
+
+Webmonkeys, an ACM Special Intrest Group (Fall 2012 - Spring 2013)
+------------------------------------------------------------------
+As the co-chair of ACM's Webmonkeys, I am responsible for coordinating meetings
+with our 300+ members, organize projects, and setup tutorials.  I am excited
+about my role as a mentor and look forward to helping others suceede in their
+web development endeavers.  My personal Webmonkey's project is the creation of
+a web app client for the UDJ music player.
 
 Projects and Work Experience
 ===============================================================================
@@ -33,16 +42,6 @@ Jr. Developer @ Allscripts (Summer 2011)
 At Allscripts, I worked on a large data importation project that required me to
 automate the collection of sensitive patient-related data from their clients.
 I also wrote user stories and mocked up a new interface designs.
-
-Campus Involvement
-===============================================================================
-Webmonkeys, an ACM Special Intrest Group (Fall 2012 - Spring 2013)
-------------------------------------------------------------------
-As the co-chair of ACM's Webmonkeys, I am responsible for coordinating meetings
-with our 300+ members, organize projects, and setup tutorials.  I am excited
-about my role as a mentor and look forward to helping others suceede in their
-web development endeavers.  My personal Webmonkey's project is the creation of
-a web app client for the UDJ music player.
 
 Skills
 ===============================================================================
