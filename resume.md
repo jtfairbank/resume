@@ -21,7 +21,7 @@ Election Analytics | Undergraduate Research | UIUC | Summer - Fall 2012
 -----------------------------------------------------------------------
 I am taking an independent study course with Professor Sheldon Jacobson that tracks and analyzes
 polling data to forcast the upcoming November 2012 elections.
-  *   Website: http://electionanalytics.cs.illinois.edu
+  *   http://electionanalytics.cs.illinois.edu
   1.  Created of the Senate 2012 portion of the site.
   2.  Creating a web-spider to automate the collecting and processing of poll data.
   3.  Transitioning our version control from SVN to GIT.
