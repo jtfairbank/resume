@@ -12,10 +12,19 @@ Websites
    *  https://github.com/jtfairbank
    *  http://www.jtfairbank.com
 
-Education and Campus Involvement
+Education and Projects at School
 =================================================================================================
 
 University of Illinois, Urbana, IL  |  B.E. in Computer Science  | May 2014
+
+Election Analytics | Undergraduate Research | UIUC | Summer - Fall 2012
+-----------------------------------------------------------------------
+I am taking an independent study course with Professor Sheldon Jacobson that tracks and analyzes
+polling data to forcast the upcoming November 2012 elections.
+  *   Website: http://electionanalytics.cs.illinois.edu
+  1.  Created of the Senate 2012 portion of the site.
+  2.  Creating a web-spider to automate the collecting and processing of poll data.
+  3.  Transitioning our version control from SVN to GIT.
 
 Webmonkeys | UIUC | Fall 2012 - Spring 2013
 -------------------------------------------
@@ -27,17 +36,8 @@ programming and technologies, and enabling my more experienced peers to work on 
       members can maintain and improve on it.
    *  Build a web app interface for a social music player, UDJ.
 
-Projects and Work Experience
+Work Experience
 =================================================================================================
-
-Election Analytics | Undergraduate Research | UIUC | Summer - Fall 2012
------------------------------------------------------------------------
-I am taking an independent study course with Professor Sheldon Jacobson that tracks and analyzes
-polling data to forcast the upcoming November 2012 elections.
-  *   Website: http://electionanalytics.cs.illinois.edu
-  1.  Created of the Senate 2012 portion of the site.
-  2.  Creating a web-spider to automate the collecting and processing of poll data.
-  3.  Transitioning our version control from SVN to GIT.
 
 Jr. Developer | Jack Henry | Springfield, MO | Fall 2011
 --------------------------------------------------------
