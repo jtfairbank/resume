@@ -8,6 +8,10 @@ Formatting
 How to Print / Export to PDF
 ============================
 
+All Systems
+-----------
+Grab /out/resume-latest.pdf and print that.
+
 Mac OSX
 -------
  1. Open resume.md in TextEdit.
