@@ -20,7 +20,7 @@ University of Illinois, Urbana, IL  |  B.E. in Computer Science  | May 2014
 Election Analytics | Undergraduate Research | UIUC | Summer - Fall 2012
 -----------------------------------------------------------------------
   *  Independent study course with Professor Sheldon Jacobson
-  *  Tracks and analyzes polling data to forcast the upcoming November 2012 elections.
+  *  Tracks and analyzes polling data to forecast the upcoming November 2012 elections.
   *  http://electionanalytics.cs.illinois.edu
   *  Created of the Senate 2012 portion of the site.
   *  Creating a web-spider to automate the collecting and processing of poll data.
@@ -28,11 +28,11 @@ Election Analytics | Undergraduate Research | UIUC | Summer - Fall 2012
 Webmonkeys | UIUC | Fall 2012 - Spring 2013
 -------------------------------------------
    *  Coordinate meetings, projects, and tutorials with our 300+ members.
-   *  Coordinate tech talks and recriutment opportunities with companies.
+   *  Coordinate tech talks and recruitment opportunities with companies.
    *  Take over Scheedule and open-source it so our members can maintain and improve on it.
    *  Build a web app interface for a social music player, UDJ.
 
-MechMania 18 Competiton Creation | UIUC | Spring 2011 - Fall 2012
+MechMania 18 Competition Creation | UIUC | Spring 2011 - Fall 2012
 -----------------------------------------------------------------
   *  Helped develop the game at a high level (game design, implementation discussions).
   *  Led the test-client team: developed example clients for competitors and to test the game.
@@ -59,7 +59,7 @@ Jr. Developer | Allscripts | Chicago, IL | Summer 2011
 Skillset
 =================================================================================================
         Web Dev  |  HTML5, CSS3, SCSS, JS, JQUERY, BOOTSTRAP, PHP, DJANGO, SQL
-Applicaiton Dev  |  C, C++, Java, Python
+Application Dev  |  C, C++, Java, Python
 Version Control  |  SVN, GIT (preferred)
    Other Skills  |  Quality Assurance Testing, User Stories, Application Mockups
 
@@ -68,4 +68,4 @@ Events
      Hackathons  |  Facebook, Yahoo, Microsoft, Independent (Club Sponsored)
    Competitions  |  MechMania, Cozad New Venture Competition x2
 
-               J. Taylor Fairbank | 1901 N. Linclon Ave #119-C | Urbana, IL 61801
+               J. Taylor Fairbank | 1901 N. Lincoln Ave #119-C | Urbana, IL 61801
