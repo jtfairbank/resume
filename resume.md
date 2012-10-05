@@ -1,70 +1,71 @@
-                   J. Taylor Fairbank  |  jtfairbank@gmail.com  |  417-496-2928                  
+                   J. Taylor Fairbank  |  jtfairbank@gmail.com  |  417-496-2928
 
-Looking for a Summer 2013 internship
+Looking for a Summer 2013 internship.
 
 Resume.markdown
 ---------------
 Markdown's efficient.  I'd much rather be writing code than formatting resumes.
-   *  http://daringfireball.net/projects/markdown/
+  *  http://daringfireball.net/projects/markdown/
 
 Websites
 --------
-   *  https://github.com/jtfairbank
-   *  http://www.jtfairbank.com
+  *  https://github.com/jtfairbank
+  *  http://www.jtfairbank.com
 
-Education and Projects at School
+Education
 =================================================================================================
 
 University of Illinois, Urbana, IL  |  B.E. in Computer Science  | May 2014
 
 Election Analytics | Undergraduate Research | UIUC | Summer - Fall 2012
 -----------------------------------------------------------------------
-I am taking an independent study course with Professor Sheldon Jacobson that tracks and analyzes
-polling data to forcast the upcoming November 2012 elections.
-  *   http://electionanalytics.cs.illinois.edu
-  1.  Created of the Senate 2012 portion of the site.
-  2.  Creating a web-spider to automate the collecting and processing of poll data.
-  3.  Transitioning our version control from SVN to GIT.
+  *  Independent study course with Professor Sheldon Jacobson
+  *  Tracks and analyzes polling data to forcast the upcoming November 2012 elections.
+  *  http://electionanalytics.cs.illinois.edu
+  *  Created of the Senate 2012 portion of the site.
+  *  Creating a web-spider to automate the collecting and processing of poll data.
 
 Webmonkeys | UIUC | Fall 2012 - Spring 2013
 -------------------------------------------
-As co-chair of ACM's Webmonkeys, I enjoy helping less experienced students delve into web
-programming and technologies, and enabling my more experienced peers to work on websites / apps.
    *  Coordinate meetings, projects, and tutorials with our 300+ members.
    *  Coordinate tech talks and recriutment opportunities with companies.
-   *  Take over Scheedule- a startup's failed class scheduling web app- and open-source it so our
-      members can maintain and improve on it.
+   *  Take over Scheedule and open-source it so our members can maintain and improve on it.
    *  Build a web app interface for a social music player, UDJ.
+
+MechMania 18 Competiton Creation | UIUC | Spring 2011 - Fall 2012
+-----------------------------------------------------------------
+  *  Helped develop the game at a high level (game design, implementation discussions).
+  *  Led the test-client team: developed example clients for competitors and to test the game.
+  *  Wrote pathfinding in the game.
 
 Work Experience
 =================================================================================================
 
 Jr. Developer | Jack Henry | Springfield, MO | Fall 2011
 --------------------------------------------------------
-Working with the continuing development team for Jack Henry’s 4Sight product allowed me to work
-in a number of different roles and learn some new tools.
-  1.  Researched program bugs and solutions to misc. coding problems.
-  2.  Coded an in-house utility to automate emailing work items to other teams.
-  3.  Setup virtual environments in VMWare's Lab Manager for testing.
-  4.  Setup a Sharepoint database to track installation issue resolutions.
-  5.  Added error logging functionality to an upgrade-advisor tool.
+  *  Researched program bugs and solutions to coding problems.
+  *  Coded an in-house utility to automate emailing work items to other teams.
+  *  Setup virtual environments in VMWare's Lab Manager for testing.
+  *  Setup a Sharepoint database to track installation issue resolutions.
+  *  Added error logging functionality to an upgrade-advisor tool.
 
 Jr. Developer | Allscripts | Chicago, IL | Summer 2011
 ------------------------------------------------------
-At Allscripts, I worked on a project that paved the way for collecting sensitive patient-related
-data from healthcare providers. I also initiated a new UI design.
-  1.  Coded a script to automate client data gathering from Salesforce.com.
-  2.  Worked with another intern to build a database based on the client information.
-  3.  Created user stories and mocked up a new interface designs for a Provider Filter tool in
-      their Enterprise level Stimulus Reporting Portal.
+  *  Coded a script to automate client data gathering from Salesforce.com.
+  *  Worked with another intern to build a database based on the client information.
+  *  Created user stories and mocked up a new interface designs for a Provider Filter tool in
+     their Enterprise level Stimulus Reporting Portal.
 
 Skillset
 =================================================================================================
-I am language agnostic.  My education focuses on skills that are applicable to awide variety of
-development stacks and environments, and I am capbable of adjusting to new languages, systems,
-process, etc. as needed.
-
         Web Dev  |  HTML5, CSS3, SCSS, JS, JQUERY, BOOTSTRAP, PHP, DJANGO, SQL
 Applicaiton Dev  |  C, C++, Java, Python
 Version Control  |  SVN, GIT (preferred)
    Other Skills  |  Quality Assurance Testing, User Stories, Application Mockups
+
+Events
+=================================================================================================
+     Hackathons  |  Facebook, Yahoo, Microsoft, Independent (Club Sponsored)
+   Competitions  |  MechMania, Cozad New Venture Competition x2
+
+               J. Taylor Fairbank | 1901 N. Linclon Ave #119-C | Urbana, IL 61801
