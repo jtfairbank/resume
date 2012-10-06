@@ -16,21 +16,25 @@ Mac OSX - Plaintext
 -------------------
  1. Copy resume.md to out/resume.txt.
  2. Open out/resume.txt in TextEdit.
- 3. Make the font 6 sizes larger (everywhere).
- 4. Print or export to PDF. A 'print preview' is recommended.
- 5. An exported PDF copy is kept at out/resume-latest.pdf.
+ 3. Make the font 3 sizes smaller (everywhere).
+ 4. Print or save to PDF via the print menu. A 'print preview' is recommended.
+    Do not export to PDF- this will mess up the formatting and varies the font
+    size in non-consistent ways.
+ 5. A PDF copy is kept at out/resume-latest.pdf.
 
 Mac OSX - Plaintext
 -------------------
  1. Copy resume.md to out/resume-pretty.rtf.
  2. Open out/resume-pretty.txt in TextEdit.
  3. Change the format to Rich Text.
- 4. Change the font to 'Menlo' and the font size to 24.
+ 4. Change the font to 'Menlo' and the font size to 8.
  5. Bold each section title (underlined by '========').
  6. Remove any extra whitespace at the end of the document (making rich text
     seems to add a newline).
- 7. Print or export to PDF. A 'print preview' is recommended.
- 8. An exported PDF copy is kept at out/resume-latest-pretty.pdf.
+ 7. Print or save to PDF via the print menu. A 'print preview' is recommended.
+    Do not export to PDF- this will mess up the formatting and varies the font
+    size in non-consistent ways.
+ 8. A PDF copy is kept at out/resume-latest-pretty.pdf.
 
 Copyright
 =========
