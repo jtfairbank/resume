@@ -15,7 +15,7 @@ Websites
 Education
 =================================================================================================
 
-University of Illinois, Urbana, IL  |  B.E. in Computer Science  | May 2014
+University of Illinois, Urbana, IL  |  B.S. in Computer Science  | May 2014
 
 Election Analytics | Undergraduate Research | UIUC | Summer - Fall 2012
 -----------------------------------------------------------------------
