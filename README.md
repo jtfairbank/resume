@@ -35,9 +35,3 @@ Mac OSX - Plaintext
     Do not export to PDF- this will mess up the formatting and varies the font
     size in non-consistent ways.
  8. A PDF copy is kept at out/resume-latest-pretty.pdf.
-
-Copyright
-=========
-Copyright (C) 2012 J. Taylor Fairbank
-
-All rights reserved.
