@@ -5,8 +5,9 @@ Formatting
  **Max width:** 97 characters
 **Max height:** 72 lines
 
-How to Print / Export to PDF
-============================
+
+How to Print / Export Resume to PDF
+===================================
 
 All Systems
 -----------
@@ -35,3 +36,9 @@ Mac OSX - Plaintext
     Do not export to PDF- this will mess up the formatting and varies the font
     size in non-consistent ways.
  8. A PDF copy is kept at out/resume-latest-pretty.pdf.
+
+
+Profile Photos
+==============
+The profile_photos directory provides some images of me.  Images also exist on
+my [Gravatar profile](http://en.gravatar.com/jtfairbank).
