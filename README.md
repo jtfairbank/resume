@@ -40,5 +40,22 @@ Mac OSX - Plaintext
 
 Profile Photos
 ==============
-The profile_photos directory provides some images of me.  Images also exist on
-my [Gravatar profile](http://en.gravatar.com/jtfairbank).
+The profile\_photos directory provides some images of me.  Images also exist on
+my [Gravatar profile](gravatar).
+
+Where these Photos Exist
+------------------------
+ * goofy\_leaf\_mustache => [LinkedIn][linkedin]
+
+
+Online Profiles
+===============
+A list of online photos where you can find me:
+
+ * [GitHub][github]
+ * [Gravatar][gravatar]
+ * [LinkedIn][linkedin]
+
+[gravatar]: http://en.gravatar.com/jtfairbank "Gravatar"
+[linkedin]: https://www.linkedin.com/in/jtfairbank  "LinkedIn"
+[github]: https://github.com/jtfairbank "GitHub"
