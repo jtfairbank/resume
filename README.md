@@ -45,7 +45,7 @@ my [Gravatar profile](gravatar).
 
 Where these Photos Exist
 ------------------------
- * goofy\_leaf\_mustache => [LinkedIn][linkedin]
+ * goofy-leaf-mustache => [LinkedIn][linkedin]
 
 
 Online Profiles
@@ -54,7 +54,7 @@ A list of online photos where you can find me:
 
  * [GitHub][github]
  * [Gravatar][gravatar]
- * [LinkedIn][linkedin]
+ * [iLinkedIn][linkedin]
 
 [gravatar]: http://en.gravatar.com/jtfairbank "Gravatar"
 [linkedin]: https://www.linkedin.com/in/jtfairbank  "LinkedIn"
