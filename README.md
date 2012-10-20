@@ -41,7 +41,7 @@ Mac OSX - Pretty Plaintext
 Profile Photos
 ==============
 The profile\_photos directory provides some images of me.  Images also exist on
-my [Gravatar profile](gravatar).
+my [Gravatar profile][gravatar].
 
 Where these Photos Exist
 ------------------------
