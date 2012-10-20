@@ -23,8 +23,8 @@ Mac OSX - Plaintext
     size in non-consistent ways.
  5. A PDF copy is kept at out/resume-latest.pdf.
 
-Mac OSX - Plaintext
--------------------
+Mac OSX - Pretty Plaintext
+--------------------------
  1. Copy resume.md to out/resume-pretty.rtf.
  2. Open out/resume-pretty.txt in TextEdit.
  3. Change the format to Rich Text.
@@ -50,11 +50,11 @@ Where these Photos Exist
 
 Online Profiles
 ===============
-A list of online photos where you can find me:
+A list of online profiles where you can find me:
 
  * [GitHub][github]
  * [Gravatar][gravatar]
- * [iLinkedIn][linkedin]
+ * [LinkedIn][linkedin]
 
 [gravatar]: http://en.gravatar.com/jtfairbank "Gravatar"
 [linkedin]: https://www.linkedin.com/in/jtfairbank  "LinkedIn"
