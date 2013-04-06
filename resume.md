@@ -1,6 +1,6 @@
                    J. Taylor Fairbank  |  jtfairbank@gmail.com  |  417-496-2928
 
-Looking for a Summer 2013 internship.
+Looking for a Summer 2014 internship.
 
 Resume.markdown
 ---------------
@@ -17,13 +17,20 @@ Education
 
 University of Illinois, Urbana, IL  |  B.S. in Computer Science  | May 2014
 
-Election Analytics | Undergraduate Research | UIUC | Summer - Fall 2012
------------------------------------------------------------------------
-  *  Independent study course with Professor Sheldon Jacobson
-  *  Tracks and analyzes polling data to forecast the upcoming November 2012 elections.
+Residency Scheduler | Undergraduate Research | UIUC | Spring 2013
+-----------------------------------------------------------------
+ *  Team lead: put together and manage a team of undergraduates.
+ *  Frontend Dev: design and build the application's interface (using Angular.js).
+
+Election Analytics | Undergraduate Research | UIUC | Summer 2012 - Spring 2013
+------------------------------------------------------------------------------
+  *  Track and analyze polling data to forecast elections.
   *  http://electionanalytics.cs.illinois.edu
   *  Created of the Senate 2012 portion of the site.
   *  Creating a web-spider to automate the collecting and processing of poll data.
+  *  Updating codebase and processes: svn -> git, static html -> php + js,
+     setup git workflow to push code to production
+  *  Adding user interactivity to the website to increase engagement and sharing.
 
 Webmonkeys | UIUC | Fall 2012 - Spring 2013
 -------------------------------------------
@@ -32,14 +39,12 @@ Webmonkeys | UIUC | Fall 2012 - Spring 2013
    *  Take over Scheedule and open-source it so our members can maintain and improve on it.
    *  Build a web app interface for a social music player, UDJ.
 
-MechMania 18 Competition Creation | UIUC | Spring 2011 - Fall 2012
------------------------------------------------------------------
-  *  Helped develop the game at a high level (game design, implementation discussions).
-  *  Led the test-client team: developed example clients for competitors and to test the game.
-  *  Wrote pathfinding in the game.
-
 Work Experience
 =================================================================================================
+
+Intern Developer | Microsoft | Redmond, WA | Summer 2013
+--------------------------------------------------------
+Coming soon! (its not summer yet)
 
 Jr. Developer | Jack Henry | Springfield, MO | Fall 2011
 --------------------------------------------------------
@@ -49,23 +54,16 @@ Jr. Developer | Jack Henry | Springfield, MO | Fall 2011
   *  Setup a Sharepoint database to track installation issue resolutions.
   *  Added error logging functionality to an upgrade-advisor tool.
 
-Jr. Developer | Allscripts | Chicago, IL | Summer 2011
-------------------------------------------------------
-  *  Coded a script to automate client data gathering from Salesforce.com.
-  *  Worked with another intern to build a database based on the client information.
-  *  Created user stories and mocked up a new interface designs for a Provider Filter tool in
-     their Enterprise level Stimulus Reporting Portal.
-
 Skillset
 =================================================================================================
-        Web Dev  |  HTML5, CSS3, SCSS, JS, JQUERY, BOOTSTRAP, PHP, DJANGO, SQL
+        Web Dev  |  HTML5, CSS3, SCSS, Bootstrap, JS, jquery, Angular.js, Dart, PHP, Django, SQL
 Application Dev  |  C, C++, Java, Python
 Version Control  |  SVN, GIT (preferred)
    Other Skills  |  Quality Assurance Testing, User Stories, Application Mockups
 
 Events
 =================================================================================================
-     Hackathons  |  Facebook, Yahoo, Microsoft, Independent (Club Sponsored)
-   Competitions  |  MechMania, Cozad New Venture Competition x2
+     Hackathons  |  Facebook x2, Yahoo, Microsoft, Bloc, Webmonkeys, Independent
+   Competitions  |  MechMania, Cozad New Venture Competition x2, Microsoft Puzzle Challenge 2013
 
                J. Taylor Fairbank | 1901 N. Lincoln Ave #119-C | Urbana, IL 61801
