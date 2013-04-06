@@ -43,18 +43,14 @@ Profile Photos
 The profile\_photos directory provides some images of me.  Images also exist on
 my [Gravatar profile](gravatar).
 
-Where these Photos Exist
-------------------------
- * goofy-leaf-mustache => [LinkedIn][linkedin]
-
 
 Online Profiles
 ===============
-A list of online photos where you can find me:
+A list of online profiles where you can find me:
 
  * [GitHub][github]
  * [Gravatar][gravatar]
- * [iLinkedIn][linkedin]
+ * [LinkedIn][linkedin]
 
 [gravatar]: http://en.gravatar.com/jtfairbank "Gravatar"
 [linkedin]: https://www.linkedin.com/in/jtfairbank  "LinkedIn"
