@@ -25,7 +25,7 @@ Mac OSX - Plaintext
 
 Mac OSX - Pretty Plaintext
 --------------------------
- 1. Copy resume.md to out/resume-pretty.rtf.
+ 1. Copy resume.md to out/resume-pretty.txt.
  2. Open out/resume-pretty.txt in TextEdit.
  3. Change the format to Rich Text.
  4. Change the font to 'Menlo' and the font size to 8.
